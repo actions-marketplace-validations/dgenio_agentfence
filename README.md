@@ -92,6 +92,18 @@ See the [VeriCordon authorization-evidence guide](docs/evidence-bundle.md) for
 the copy/paste workflow, minimal inputs, a real missing-evidence example, the
 fresh-consumer 3/3 binding result, and the explicit non-claims.
 
+### Independent production / architecture review
+
+If you're taking an LLM, agent, or MCP system into production and want an outside view before committing more engineering effort, I also offer a fixed-scope **Architecture Decision Sprint** covering production readiness, authorization/security boundaries, evals/observability, and platform trade-offs.
+
+Typical engagement: **3–5 working days, from €1,500**. The output is a concise decision memo with the recommendation, major risks, rejected alternatives, and implementation guardrails. This is independent consulting by the maintainer, not AgentFence support or a VeriCordon product tier.
+
+[See the full scope →](https://diogo-genai-advisory.diogofcul.chatgpt.site)
+
+**For a direct enquiry:** [email the decision you need reviewed →](mailto:diogofcul@gmail.com?subject=Architecture%20Decision%20Sprint).
+Include the decision, options and deadline; do not send sensitive materials in
+the first message. A fit call is only arranged after confirming scope.
+
 ## Current status
 
 AgentFence is in active development. The table below distinguishes what works
